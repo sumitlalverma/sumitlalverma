@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **sumitdisouza7056@gmail.com**
 
+<a href="https://app.daily.dev/sumitlalverma"><img src="https://api.daily.dev/devcards/9f422dd5cac943909e38898f1899108b.png?r=4x1" width="400" alt="Sumit lal verma's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumit-lal-verma-b9833a1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-lal-verma-b9833a1a1" height="30" width="40" /></a>
